@@ -1,4 +1,4 @@
-// Tyuiu.IlinykhNA.Sprint0.Task1.V0.cpp : This file contains the 'main' function. Program execution begins and ends there.
+п»ї// Tyuiu.IlinykhNA.Sprint0.Task1.V0.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -7,12 +7,12 @@ int main()
 {   
     setlocale(LC_ALL, "Russian");
     cout << "Hello World!\n"; 
-    cout << "Введите ФИО : ";
+    cout << "Р’РІРµРґРёС‚Рµ Р¤РРћ : ";
     string name; 
     cin >> name; 
     int age;
     cin >> age;
-    cout << "Ваш возраст = " << age;
+    cout << "Р’Р°С€ РІРѕР·СЂР°СЃС‚ = " << age;
     return 0; 
 }
 
@@ -26,7 +26,7 @@ int main()
 //   4. Use the Error List window to view errors
 //   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
 //   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
-//заметки : для работы //setLocale(LC_ALL. "Russian"); - необходимо пересохранить проект в кодировке 1251.
+//Р·Р°РјРµС‚РєРё : РґР»СЏ СЂР°Р±РѕС‚С‹ //setLocale(LC_ALL. "Russian"); - РЅРµРѕР±С…РѕРґРёРјРѕ РїРµСЂРµСЃРѕС…СЂР°РЅРёС‚СЊ РїСЂРѕРµРєС‚ РІ РєРѕРґРёСЂРѕРІРєРµ 1251.
     //SetConsoleOutputCP(1251);
     //SetConsoleCP(1251);
     //#include <windows.h>
