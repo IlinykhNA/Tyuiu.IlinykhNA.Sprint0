@@ -6,14 +6,14 @@ using namespace std;
 int main()
 {   
     setlocale(LC_ALL, "Russian");
-    cout << "Hello World!\n"; //cout отвечает за вывод данных на экран консоли.
+    cout << "Hello World!\n"; 
     cout << "Введите ФИО : ";
-    string a; 
-    cin >> a; //cin отвечает за ввод данных.
-    int v;
-    cin >> v;
-    cout << "Ваш возраст = " << v;
-    return 0; //вывод результата после загрузки консоли 
+    string name; 
+    cin >> name; 
+    int age;
+    cin >> age;
+    cout << "Ваш возраст = " << age;
+    return 0; 
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
