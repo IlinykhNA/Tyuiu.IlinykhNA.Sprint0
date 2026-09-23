@@ -10,4 +10,9 @@
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.IlinykhNA.Sprint0.Task1.V0/Tyuiu.IlinykhNA.Sprint0.Task1.V0.vcxproj" Id="672ff379-4281-4e43-bf0b-d176d606e68f" />
   </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.IlinykhNA.Sprint0.Task2.V0.Lib/Tyuiu.IlinykhNA.Sprint0.Task2.V0.Lib.vcxproj" Id="a00a00ec-d3b3-4145-b278-9fab7adb3ce0" />
+    <Project Path="Tyuiu.IlinykhNA.Sprint0.Task2.V0/Tyuiu.IlinykhNA.Sprint0.Task2.V0.vcxproj" Id="f0dc6df0-a7b1-4f9e-8064-a73c2e9b279c" />
+    <Project Path="Tyuiu.IlinykhNA.Sprint0.Test2.V0.Test/Tyuiu.IlinykhNA.Sprint0.Test2.V0.Test.vcxproj" />
+  </Folder>
 </Solution>
