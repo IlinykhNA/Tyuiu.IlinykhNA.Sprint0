@@ -20,4 +20,9 @@
     <Project Path="Tyuiu.IlinykhNA.Sprint0.Task3.V0.Test/Tyuiu.IlinykhNA.Sprint0.Task3.V0.Test.vcxproj" />
     <Project Path="Tyuiu.IlinykhNA.Sprint0.Task3.V0/Tyuiu.IlinykhNA.Sprint0.Task3.V0.vcxproj" Id="6255e98b-0091-4498-854d-a6d218a81629" />
   </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.IlinykhNA.Sprint0.Task.4.V1.Lib/Tyuiu.IlinykhNA.Sprint0.Task.4.V1.Lib.vcxproj" Id="39889712-f2d9-485a-a239-9336496758ca" />
+    <Project Path="Tyuiu.IlinykhNA.Sprint0.Task4.V0.Test/Tyuiu.IlinykhNA.Sprint0.Task4.V0.Test.vcxproj" />
+    <Project Path="Tyuiu.IlinykhNA.Sprint0.Task4.V0/Tyuiu.IlinykhNA.Sprint0.Task4.V0.vcxproj" Id="d3a2af72-a742-4f18-8342-e12b9baa2d20" />
+  </Folder>
 </Solution>
