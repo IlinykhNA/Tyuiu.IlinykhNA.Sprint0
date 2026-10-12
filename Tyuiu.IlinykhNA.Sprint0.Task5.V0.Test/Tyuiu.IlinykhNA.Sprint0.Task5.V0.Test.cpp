@@ -18,6 +18,7 @@ namespace TyuiuIlinykhNASprint0Task5V0Test
 			float c = 15;
 			float sum;
 
+
 			sum = date->Zadacha(a, b, c);
 
 			Assert::AreEqual(1095, sum, 0.001f);
