@@ -13,10 +13,10 @@ int main()
 	cout << "Ilinykh.NA\n ";
 	cout << "Enter number: \t";
 	cin >> a;
-	cout << "Enter number: \t";
+	cout << " Enter number: \t";
 	cin >> b;
 	sum = date->Zuul(a, b);
-	cout << "Sum = \t \a" << sum;
+	cout << " Sum = \t \a" << sum;
 
 }
 
